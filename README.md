@@ -1,11 +1,11 @@
-# CollectionBuilder-GH
+# DreamLab 2024
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
 
 - a CSV of collection metadata
 - a folder of JPEG images, PDF documents, MP3s, or links to videos hosted on YouTube or Vimeo
 
-Visit the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
+Visit my [class project site](https://sheishistoric.github.io/dreamlab2024/).
 
 ## Build a Digital Collection
 
@@ -20,7 +20,8 @@ Since CollectionBuilder-GH uses [GitHub Pages](https://pages.github.com/), it is
 GitHub repositories are limited to 1GB.
 For larger collections or those that require more customization, check out the [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) template.
 
-## CollectionBuilder-GH Quick Tutorial
+## CollectionBuilder-GH Quick Tutorial[^1]
+[^1] this is the footnote that i included up above.
 
 Follow the [CollectionBuilder-GH Walkthrough](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/gh-walkthrough/) to set up a collection quickly using demo metadata and objects. 
 
